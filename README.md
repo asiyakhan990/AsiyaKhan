@@ -1,7 +1,11 @@
-<h1 align="center">Hi 👋, Asiya Khan</h1>
-<h3 align="center">Agentic AI Enginner</h3>
+<h1 align="center">Hi 👋, I'm Asiya Khan</h1>
+<h3 align="center">Agentic AI Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asiyakhan990&label=Profile%20views&color=0e75b6&style=flat" alt="asiyakhan990" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asiyakhan990" alt="asiyakhan990" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on [Agentic AI](https://github.com/asiyakhan990/GIAIC-Q4-Agentic-AI-)
 
@@ -12,6 +16,8 @@
 - 💬 Ask me about **Next.js, Python, TypeScript, Agentic AI**
 
 - 📫 How to reach me **asiyakhan02123@gmail.com**
+
+- ⚡ Fun fact **Chai tastes way better than Coffee | Change my mind!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
