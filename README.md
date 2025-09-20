@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asiyakhan990&label=Profile%20views&color=0e75b6&style=flat" alt="asiyakhan990" /> </p>
 
-<p align="left"> <a href="https://twitter.com/https://x.com/asiyakhan567" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/asiyakhan567?logo=twitter&style=for-the-badge" alt="https://x.com/asiyakhan567" /></a> </p>
-
 - 🔭 I’m currently working on [Agentic AI](https://github.com/asiyakhan990/GIAIC-Q4-Agentic-AI-)
 
 - 🌱 I’m currently learning **Agentic AI, Next.js, TypeScript, Python**
@@ -21,6 +19,7 @@
 <p align="left">
 <a href="https://twitter.com/https://x.com/asiyakhan567" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/asiyakhan567" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/asiya-khan-0362682ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/asiya-khan-0362682ba" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/share/1afjy2m5hm/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/share/1afjy2m5hm/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/asiyakhanyousafzai/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/asiyakhanyousafzai/" height="30" width="40" /></a>
 </p>
 
