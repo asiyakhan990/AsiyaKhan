@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asiyakhan990&label=Profile%20views&color=0e75b6&style=flat" alt="asiyakhan990" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/https://x.com/asiyakhan567" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/asiyakhan567?logo=twitter&style=for-the-badge" alt="https://x.com/asiyakhan567" /></a> </p>
 
 - 🔭 I’m currently working on [Agentic AI](https://github.com/asiyakhan990/GIAIC-Q4-Agentic-AI-)
 
